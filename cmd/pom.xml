@@ -11,9 +11,8 @@
 
     <artifactId>cmd</artifactId>
 
-    <name>Javamm project</name>
-    <description>Compiler, interpreter, standard library, virtual machine, console launcher
-        and simple IDE for javamm programming language</description>
+    <name>Javamm cmd</name>
+    <description>Console tool for javamm programming language</description>
 
     <dependencies>
         <dependency>

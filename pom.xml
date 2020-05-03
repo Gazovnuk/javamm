@@ -142,4 +142,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <distributionManagement>
+    <site>
+      <id>dev.litvinov</id>
+      <url>scp://dev.litvinov/javamm/maven-docs</url>
+    </site>
+  </distributionManagement>
 </project>
