@@ -11,6 +11,11 @@
 
     <artifactId>release</artifactId>
     <packaging>pom</packaging>
+
+    <name>Javamm project</name>
+    <description>Compiler, interpreter, standard library, virtual machine, console launcher
+        and simple IDE for javamm programming language</description>
+
     <dependencies>
         <dependency>
             <groupId>dev.litvinov</groupId>
